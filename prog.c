@@ -59,7 +59,6 @@ int main(int argc,char* argv[]) {
 			}
 		}
 	}
-Hello My name is tim
 	fclose(fp);
 	printf("\nFinished\n");
 }
